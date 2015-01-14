@@ -1,0 +1,4 @@
+
+# no need to commit environment modules
+node_modules
+
